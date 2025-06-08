@@ -47,10 +47,6 @@ DAX Measures (for dynamic KPIs)
 
 Interactive Dashboard Design
 
-UX/UI for Report Consumers
-
-Analytical Thinking Applied to EdTech
-
 
 **🛠 Tools & Technologies**
 
